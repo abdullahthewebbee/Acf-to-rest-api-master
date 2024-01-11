@@ -170,22 +170,5 @@ To-do list 🆕
 https://github.com/airesvsg/to-do-list-acf-to-rest-api
 
 
-Get ACF Fields Recursively🆕
-====
-https://github.com/airesvsg/acf-to-rest-api-recursive
 
-More details:
 
-- Issues
-  - https://github.com/airesvsg/acf-to-rest-api/issues/109
-  - https://github.com/airesvsg/acf-to-rest-api/issues/223
-  - https://github.com/airesvsg/acf-to-rest-api/issues/9
-
-- Pull Request
-  - https://github.com/airesvsg/acf-to-rest-api/pull/95
-
-Cache
-====
-Enable caching for WordPress REST API and increase speed of your application.
-
-https://github.com/airesvsg/wp-rest-api-cache
