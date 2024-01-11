@@ -1,6 +1,6 @@
 ACF to REST API
 ====
-Exposes [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) Endpoints in the [WordPress REST API](https://developer.wordpress.org/rest-api/)
+Exposes [Advanced Custom Fields] Endpoints in the [WordPress REST API](https://developer.wordpress.org/rest-api/)
 
 https://wordpress.org/plugins/acf-to-rest-api/
 
