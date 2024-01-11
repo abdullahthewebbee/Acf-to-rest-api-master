@@ -158,17 +158,3 @@ Now, the fields should be sent into the key `acf_fields`
   <button type="submit">Save</button>
 </form>
 ```
-
-Examples
-====
-Sample theme to edit the ACF Fields.
-
-https://github.com/airesvsg/acf-to-rest-api-example
-
-To-do list 🆕
-
-https://github.com/airesvsg/to-do-list-acf-to-rest-api
-
-
-
-
